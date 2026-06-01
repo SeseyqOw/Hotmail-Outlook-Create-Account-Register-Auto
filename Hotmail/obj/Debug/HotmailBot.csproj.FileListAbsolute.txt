@@ -1,0 +1,12 @@
+D:\GithubNew\19\hotmailbot\Hotmail\Hotmail\bin\Debug\Igyx UI.exe.config
+D:\GithubNew\19\hotmailbot\Hotmail\Hotmail\bin\Debug\Igyx UI.exe
+D:\GithubNew\19\hotmailbot\Hotmail\Hotmail\bin\Debug\Igyx UI.pdb
+D:\GithubNew\19\hotmailbot\Hotmail\Hotmail\bin\Debug\IgyxUI.dll
+D:\GithubNew\19\hotmailbot\Hotmail\Hotmail\obj\Debug\HotmailBot.csproj.AssemblyReference.cache
+D:\GithubNew\19\hotmailbot\Hotmail\Hotmail\obj\Debug\Igyx_UI.Form1.resources
+D:\GithubNew\19\hotmailbot\Hotmail\Hotmail\obj\Debug\Igyx_UI.Properties.Resources.resources
+D:\GithubNew\19\hotmailbot\Hotmail\Hotmail\obj\Debug\HotmailBot.csproj.GenerateResource.cache
+D:\GithubNew\19\hotmailbot\Hotmail\Hotmail\obj\Debug\HotmailBot.csproj.CoreCompileInputs.cache
+D:\GithubNew\19\hotmailbot\Hotmail\Hotmail\obj\Debug\HotmailBot.csproj.Up2Date
+D:\GithubNew\19\hotmailbot\Hotmail\Hotmail\obj\Debug\Igyx UI.exe
+D:\GithubNew\19\hotmailbot\Hotmail\Hotmail\obj\Debug\Igyx UI.pdb
