@@ -1,0 +1,36 @@
+C:\Users\LW\Desktop\IgyxUI-main\IgyxUI-main\Igyx UI\bin\Debug\Igyx UI.exe.config
+C:\Users\LW\Desktop\IgyxUI-main\IgyxUI-main\Igyx UI\bin\Debug\Igyx UI.exe
+C:\Users\LW\Desktop\IgyxUI-main\IgyxUI-main\Igyx UI\bin\Debug\Igyx UI.pdb
+C:\Users\LW\Desktop\IgyxUI-main\IgyxUI-main\Igyx UI\bin\Debug\IgyxUI.dll
+C:\Users\LW\Desktop\IgyxUI-main\IgyxUI-main\Igyx UI\obj\Debug\Igyx UI.csproj.AssemblyReference.cache
+C:\Users\LW\Desktop\IgyxUI-main\IgyxUI-main\Igyx UI\obj\Debug\Igyx_UI.Form1.resources
+C:\Users\LW\Desktop\IgyxUI-main\IgyxUI-main\Igyx UI\obj\Debug\Igyx_UI.Properties.Resources.resources
+C:\Users\LW\Desktop\IgyxUI-main\IgyxUI-main\Igyx UI\obj\Debug\Igyx UI.csproj.GenerateResource.cache
+C:\Users\LW\Desktop\IgyxUI-main\IgyxUI-main\Igyx UI\obj\Debug\Igyx UI.csproj.CoreCompileInputs.cache
+C:\Users\LW\Desktop\IgyxUI-main\IgyxUI-main\Igyx UI\obj\Debug\Igyx UI.csproj.Up2Date
+C:\Users\LW\Desktop\IgyxUI-main\IgyxUI-main\Igyx UI\obj\Debug\Igyx UI.exe
+C:\Users\LW\Desktop\IgyxUI-main\IgyxUI-main\Igyx UI\obj\Debug\Igyx UI.pdb
+C:\Users\LW\Desktop\new priojjs\youtube like bot\IgyxUI\Igyx UI\bin\Debug\Igyx UI.exe.config
+C:\Users\LW\Desktop\new priojjs\youtube like bot\IgyxUI\Igyx UI\bin\Debug\Igyx UI.exe
+C:\Users\LW\Desktop\new priojjs\youtube like bot\IgyxUI\Igyx UI\bin\Debug\Igyx UI.pdb
+C:\Users\LW\Desktop\new priojjs\youtube like bot\IgyxUI\Igyx UI\bin\Debug\IgyxUI.dll
+C:\Users\LW\Desktop\new priojjs\youtube like bot\IgyxUI\Igyx UI\obj\Debug\Igyx UI.csproj.AssemblyReference.cache
+C:\Users\LW\Desktop\new priojjs\youtube like bot\IgyxUI\Igyx UI\obj\Debug\Igyx_UI.Form1.resources
+C:\Users\LW\Desktop\new priojjs\youtube like bot\IgyxUI\Igyx UI\obj\Debug\Igyx_UI.Properties.Resources.resources
+C:\Users\LW\Desktop\new priojjs\youtube like bot\IgyxUI\Igyx UI\obj\Debug\Igyx UI.csproj.GenerateResource.cache
+C:\Users\LW\Desktop\new priojjs\youtube like bot\IgyxUI\Igyx UI\obj\Debug\Igyx UI.csproj.CoreCompileInputs.cache
+C:\Users\LW\Desktop\new priojjs\youtube like bot\IgyxUI\Igyx UI\obj\Debug\Igyx UI.csproj.Up2Date
+C:\Users\LW\Desktop\new priojjs\youtube like bot\IgyxUI\Igyx UI\obj\Debug\Igyx UI.exe
+C:\Users\LW\Desktop\new priojjs\youtube like bot\IgyxUI\Igyx UI\obj\Debug\Igyx UI.pdb
+C:\Users\LW\Desktop\new priojjs\hotmail bot\Youtube\IgyxUI\bin\Debug\Igyx UI.exe.config
+C:\Users\LW\Desktop\new priojjs\hotmail bot\Youtube\IgyxUI\bin\Debug\Igyx UI.exe
+C:\Users\LW\Desktop\new priojjs\hotmail bot\Youtube\IgyxUI\bin\Debug\Igyx UI.pdb
+C:\Users\LW\Desktop\new priojjs\hotmail bot\Youtube\IgyxUI\bin\Debug\IgyxUI.dll
+C:\Users\LW\Desktop\new priojjs\hotmail bot\Youtube\IgyxUI\obj\Debug\Igyx UI.csproj.AssemblyReference.cache
+C:\Users\LW\Desktop\new priojjs\hotmail bot\Youtube\IgyxUI\obj\Debug\Igyx_UI.Form1.resources
+C:\Users\LW\Desktop\new priojjs\hotmail bot\Youtube\IgyxUI\obj\Debug\Igyx_UI.Properties.Resources.resources
+C:\Users\LW\Desktop\new priojjs\hotmail bot\Youtube\IgyxUI\obj\Debug\Igyx UI.csproj.GenerateResource.cache
+C:\Users\LW\Desktop\new priojjs\hotmail bot\Youtube\IgyxUI\obj\Debug\Igyx UI.csproj.CoreCompileInputs.cache
+C:\Users\LW\Desktop\new priojjs\hotmail bot\Youtube\IgyxUI\obj\Debug\Igyx UI.csproj.Up2Date
+C:\Users\LW\Desktop\new priojjs\hotmail bot\Youtube\IgyxUI\obj\Debug\Igyx UI.exe
+C:\Users\LW\Desktop\new priojjs\hotmail bot\Youtube\IgyxUI\obj\Debug\Igyx UI.pdb
